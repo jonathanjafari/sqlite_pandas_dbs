@@ -1,3 +1,19 @@
+# 🏥 SQLite + Pandas: Clinical Data Analysis Project
+
+This project demonstrates practical data engineering and SQL analysis skills by building a small clinical database using **SQLite** and **Pandas**.  
+Patient data from `patients.csv` was imported into a normalized database (`clinic_simple.db`), and analytical queries (A–E) were run using **SQL** in **DB Browser for SQLite**.  
+
+The project showcases:
+- ✅ Database creation and schema design  
+- ✅ Data import and cleaning with Pandas + SQLAlchemy  
+- ✅ Querying clinical data using SQL (ICD-10, CPT codes, patient demographics)  
+- ✅ Data validation and result interpretation  
+
+**Tech stack:** Python, Pandas, SQLite, SQLAlchemy, DB Browser for SQLite  
+**Goal:** Demonstrate SQL analytics, healthcare data handling, and clear documentation.
+
+---
+
 ## Query Results Summary
 
 ---
